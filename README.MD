@@ -1,6 +1,6 @@
 # UNICON SOFT
 
-# URL = localhost:777
+# URL = https://uniconsoft.herokuapp.com
 
 # Login dan boshqa hammasini headers dan token bervorish shart
 
